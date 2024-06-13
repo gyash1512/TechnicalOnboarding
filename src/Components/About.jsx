@@ -24,7 +24,7 @@ const imageAltText = "purple and blue abstract background";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "Passionate and driven B. Tech. CSE student, consistently excelling in academics and maintaining a top-ranking position throughout school and university. Recogniked as one of the top 1% of achievers in the 2022 batch, with commendations from the dean and recipient of the prestigious Dean's Award List. Proven leadership abilities demonstrated through successful team leadership in industry hackathons. Actively participating in certifications and hackathons to expand expertise in artificial intelligence and machine learning. Known for my ability to maintain composure under pressure, effectively organizing tasks and leading teams to success. Enthusiastic about innovation and collaboration, thriving in brainstorming sessions and fostering a culture of creativity.";
+  "Passionate learner, consistently excelling in academics. Recognised as one of the top 1% of achievers in the 2022 batch, recipient of the prestigious Dean's Award List. Proven leadership abilities demonstrated through successful team leadership in industry hackathons. Known for the ability to maintain composure under pressure, effectively organizing tasks and leading teams to success. Enthusiastic about innovation and collaboration, thriving in brainstorming sessions and fostering a culture of creativity.";
 
 /**
  * List of some of skills or technologies you work on, are learning,
